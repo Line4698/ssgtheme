@@ -20,9 +20,9 @@ z-index: 99 !important;}
 
 .ast-primary-header-bar {position: fixed;
 width: 100%;
-height: 5em;}
-
-hej
+margin-top: 2em;
+margin-bottom: 2em;
+}
 
 
 
