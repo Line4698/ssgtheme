@@ -1,0 +1,23 @@
+/*
+ Theme Name:   StudentSurvivalGuide
+ Theme URI:    /http://localhost/studentsurvivalguide/
+ Description:  Astra Child Theme
+ Author:       Line Risum
+ Author URI:   http://localhost/studentsurvivalguide/
+ Template:     astra
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astrachild
+*/
+.gallery-item-hoverer-bg {background-color: brown !important;}
+.gallery-item-caption-wrap .caption-style-hoverer{visibility: visible !important;
+z-index: 99 !important;}
+
+.fg-item-title {display: block !important;
+  visibility: visible !important;}
+
+.ast-primary-header-bar {position: fixed;
+width: 100%;}
+
