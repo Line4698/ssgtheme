@@ -20,9 +20,10 @@ z-index: 99 !important;}
 
 .ast-primary-header-bar {position: fixed;
 width: 100%;
-margin-top: 2em;
-margin-bottom: 2em;
+height: 3em;
+margin-top: 3em;
 }
 
+.site-primary-header-wrap {margin-top: -3em;}
 
 
