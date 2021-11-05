@@ -11,13 +11,8 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  astrachild
 */
-.gallery-item-hoverer-bg {background-color: brown !important;}
-.gallery-item-caption-wrap .caption-style-hoverer{visibility: visible !important;
-z-index: 99 !important;}
 
-.fg-item-title {display: block !important;
-  visibility: visible !important;}
-
+/*header menu*/
 .ast-primary-header-bar {position: fixed;
 width: 100%;
 height: 3em;
@@ -28,4 +23,22 @@ margin-top: 2em;
 
 .sub-menu .menu-link {background-color: #232323;}
 
+/*fancy text dims*/
+
+.typed-cursor {color:#F3E35F;}
+
+#eael-fancy-text-1ef541f {padding-left: 0.2em;}
+
+.bounce-in-top{
+    padding: 12px 12px;
+    border: none;
+    cursor: pointer;
+    color: black !important;
+    background-color: #F3E35F !important;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.bounce-in-top:hover {background-color: #DBAB00 !important;
+}
 
