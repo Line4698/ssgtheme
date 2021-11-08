@@ -20,25 +20,37 @@ margin-top: 2em;
 }
 
 .site-primary-header-wrap {margin-top: -3em;}
-
 .sub-menu .menu-link {background-color: #232323;}
+
 
 /*fancy text dims*/
 
 .typed-cursor {color:#F3E35F;}
-
 #eael-fancy-text-1ef541f {padding-left: 0.2em;}
 
-.bounce-in-top{
-    padding: 12px 12px;
-    border: none;
-    cursor: pointer;
-    color: black !important;
-    background-color: #F3E35F !important;
-    border-radius: 5px;
-    display: inline-block;
-}
-
+/*city guides*/
 .bounce-in-top:hover {background-color: #DBAB00 !important;
 }
 
+
+/*sociale iconer i footer*/
+.elementor-icon {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.fab {
+    color:white !important;
+}
+
+.fab:hover {
+    color:#DBAB00 !important;
+}
+
+/*Knapper i footer*/
+.elementor-element-da4939e .elementor-button-link:hover {background-color:#DBAB00 !important;
+    border-color: #DBAB00 !important;}
+
+
+.ast-primary-header-bar:hover {
+    transition: ease-in 2s;
+    background-color: black;}
