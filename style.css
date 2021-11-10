@@ -19,7 +19,21 @@ height: 3em;
 margin-top: 2em;
 text-transform: capitalize !important;}
 
+.sub-menu {margin-top: -0.1em !important;}
+
 .menu-item .menu-link {text-transform: capitalize;}
+
+#ast-hf-mobile-menu {position: fixed !important;
+text-align: right !important;
+background-color: #232323;
+margin-top: 4.35em;
+width: 100%;}
+
+#ast-hf-mobile-menu .menu-link {color: white;}
+
+#ast-hf-mobile-menu .menu-link:hover {color: #DBAB00;}
+
+#ast-hf-mobile-menu #menu-item-597 .menu-link {color: #DBAB00;}
 
 .site-primary-header-wrap {margin-top: -3em;}
 .sub-menu .menu-link {background-color: #232323;}
@@ -63,8 +77,7 @@ transition-duration: 0.5s;}
 .fab:hover {color: #DBAB00 !important;}
 
 /*Knapper i footer*/
-.elementor-element-da4939e .elementor-button-link:hover {background-color:#DBAB00 !important;
-    border-color: #DBAB00 !important;}
+.elementor-element-da4939e .elementor-button-link:hover {color: #DBAB00 !important;}
 
 
     /*Responsivitet*/
